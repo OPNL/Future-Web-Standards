@@ -15,6 +15,9 @@ Developers should at good faith follow standards that push for both freedom and 
 ```
   2.0 Guidelines
 ```
+***In regards to developers:***
+
+***In regards to contributors:***
 
 ```  
   3.0 Ethical Considations
