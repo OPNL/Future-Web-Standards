@@ -15,7 +15,7 @@ Developers should at good faith follow standards that push for both freedom and 
 ```
   2.0 Guidelines
 ```
-***In regards to developers:***
+***In regards to developers:*** Developers, also defined as researchers, innovators, inventors, makers, builders, creators, writers and designers, are subject to at their best abide by these set of guidelines.
 
 ***In regards to contributors:***
 
