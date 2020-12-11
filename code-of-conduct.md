@@ -2,7 +2,7 @@
 
 # Future Web Standards | The Futurist Web Covenant
 **Also called the "Freedom Web Covenant" or the "Inventor's Covenant**\
-*Date/Date/YR v1*
+Version 1, #th Month YR
 
 ## Inspiration
 
