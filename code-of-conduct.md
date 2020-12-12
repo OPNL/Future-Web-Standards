@@ -9,7 +9,7 @@ The rise of censorship has divided people apart and ruined the main purpose of w
 ```
   1.0 Mission Statement
 ```  
-Developers should at good faith follow standards that push for both freedom and the bettermint of humanity. Technology is meant for the intended purpose of being within the norm of ethics, and built for making people's lives easier and the world a better place. In regards to philosophy, moral deontology is important and doing the greater good in regards to what is the greater good. In regards to contributors, there are also guidelines in place in relation to the contribution and its relation to the developed project. We have a duty to push for things that can't potential destroy us and for humanity's sake, the things we create are of benefit. Technology shouldn't be distopian, or have the main purpose of causing human harm outside of the realms of self defense.
+Developers should at good faith follow standards that push for both freedom and the bettermint of humanity. Technology is meant for the intended purpose of being within the norm of ethics, and built for making people's lives easier and the world a better place. In regards to philosophy, moral deontology is important and doing the greater good in regards to what is the greater good. In regards to contributors, there are also guidelines in place in relation to the contribution and its benefit to the developed project. We have a duty to push for things that can't potential destroy us and for humanity's sake, the things we create are of benefit. Technology shouldn't be distopian, or have the main purpose of causing human harm outside of the realms of self defense.
 ```
   2.0 Guidelines
 ```
