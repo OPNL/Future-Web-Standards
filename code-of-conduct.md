@@ -31,7 +31,7 @@ Here are some key terms to define that may or may not have been mentioned:
 1. Anarcho-Capitalism: Removal of central authorities over favoring everything done within a private market type system, for context see [here](https://hackernoon.com/u/TheLoneroFoundation).
 2. Neo-classical Contract: Requiring trilateral/third party assurance in regards to disputes, see [here](https://en.wikipedia.org/wiki/Neo-classical_contract)
 3. Deontological ethics: Based on whether the action is right or wrong instead of consequentialism for said action.
-4. Prima facie: At first impression, working towards a virdict, see [here](https://en.wikipedia.org/wiki/Prima_facie)
+4. Prima facie: At first impression, working towards a verdict, see [here](https://en.wikipedia.org/wiki/Prima_facie)
 5. Intellectual Diversity: Difference in ideas, beliefs, thought systems, expressions, and opinions
 
 The current version of the **Future Web Standards** is version **1**, and may or may not be updated over time. If updated, a new version # and date will be there to reflect the changes.
