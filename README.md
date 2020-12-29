@@ -4,3 +4,5 @@ We are becoming increasingly divided over these modern times. The problem isn't 
 This is licensed under the [Open Innovation License](https://github.com/StarkDrones/OIN),\
 *Copyright © 2020 Stark Drones Corporation*\
 *Copyright © 2020 Andrew Magdy Kamal*
+
+[![npm](https://img.shields.io/npm/dt/future-web-standards?label=Main)](https://www.npmjs.com/package/future-web-standards) [![npm](https://img.shields.io/npm/dt/freedom-web-covenant?label=Second)](https://www.npmjs.com/package/freedom-web-covenant) [![npm](https://img.shields.io/npm/dt/inventors-covenant?label=Third)](https://www.npmjs.com/package/inventors-covenant)
